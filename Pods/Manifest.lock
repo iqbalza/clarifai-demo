@@ -18,20 +18,17 @@ PODS:
     - AFNetworking (~> 3.1)
 
 DEPENDENCIES:
-  - Clarifai (from `../`)
+  - Clarifai
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - AFNetworking
-
-EXTERNAL SOURCES:
-  Clarifai:
-    :path: "../"
+    - Clarifai
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  Clarifai: 4bdf06412b9feb36b49555ce08827b6174d8bce8
+  Clarifai: 6d6cce2b31aefcf33893f2c3a18588b266771d11
 
-PODFILE CHECKSUM: 2ef6822ca4597987d339c25fa5a92bfbc0cb64af
+PODFILE CHECKSUM: 3890894cabff7ee895398ad77ffa53834aa989f2
 
 COCOAPODS: 1.5.3
